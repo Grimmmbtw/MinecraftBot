@@ -7,3 +7,7 @@ Je ferais surement des updates dans les jours à venir comme un message de leave
 Pour le message de bienvenue sa se passe dans l'index.js.
 
 <img src="./1.png"/>
+
+<img src="./2.png"/>
+
+<img src="./DiscordCanary_n6a3T1lxBC.png"/>
